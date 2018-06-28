@@ -1,0 +1,55 @@
+Email: usermail@provider.com
+Creation Time: 2015-09-10 07:53:30
+SMS verification state: UNVERIFIED
+Terms of Service last accepted: 2017-04-19 05:07:11
+Invites Total/Used/Accepted: 2/0/0
+
+Agent name: UserName
+Faction: RESISTANCE
+Agent level: 1
+Action Points (AP): 1875
+Energy (XM): 3000
+Display stats to others: True
+Last Location: Latitude, Longitude
+Last Location Time: 2017-04-19 05:12:21
+Highest Media ID by category:
+
+Email game notifications: True
+Email news, events, promos, and offers: False
+Push notifications for:
+	Player Comm mentions: True
+	Portal attacks: True
+	Recruiting and Faction activity: True
+	News stories: True
+	Events and opportunities: True
+
+Has captured Portal: True
+Has created Link: False
+Has created Field: False
+Blocked agents: 
+
+Tutorial State:
+	all missions complete announcement made: true at 2015-09-10 07:56:21
+	game intro has played: true at 2015-09-10 07:54:51
+	mission complete 0: ENDED_BY_NAGGING at 2015-09-10 07:55:36
+	mission complete 1: ENDED_BY_NAGGING at 2015-09-10 07:55:36
+	mission complete 2: ENDED_BY_NAGGING at 2015-09-10 07:55:36
+	mission complete 3: ENDED_BY_NAGGING at 2015-09-10 07:55:36
+	mission complete 4: ENDED_BY_NAGGING at 2015-09-10 07:55:36
+	mission complete 5: ENDED_BY_NAGGING at 2015-09-10 07:55:36
+	mission complete 6: ENDED_BY_NAGGING at 2015-09-10 07:55:36
+	mission complete 7: ENDED_BY_NAGGING at 2015-09-10 07:55:36
+	tutorial complete deploy: true at 2017-04-19 05:08:00
+	tutorial complete hack: true at 2015-09-10 07:56:21
+	tutorial complete scanner intro: true at 2017-04-19 05:07:21
+
+Badges:
+	Silver Guardian at 2017-04-29 19:44:47
+	Bronze Guardian at 2017-04-23 03:18:30
+
+Inventory:
+	EMITTER_A.1: 13
+	EMP_BURSTER.1: 21
+	PORTAL_LINK_KEY: 1
+	POWER_CUBE.1: 6
+	RES_SHIELD.COMMON: 9
